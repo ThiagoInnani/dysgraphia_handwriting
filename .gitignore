@@ -1,0 +1,8 @@
+*.pth
+*.pickle
+__pycache__/
+saved_images/
+saved_models/
+dataset_normal/
+dataset_sintetico_disgrafia/
+wandb/
